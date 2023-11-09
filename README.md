@@ -1,6 +1,6 @@
 # Subtitle Edit
 
-*the subtitle editor :)*
+*the subtitle editor )*
 
 [![GitHub version](https://img.shields.io/github/release/SubtitleEdit/subtitleedit.svg)](https://github.com/SubtitleEdit/subtitleedit)
 [![Build status](https://img.shields.io/appveyor/ci/SubtitleEdit/subtitleedit/main.svg)](https://ci.appveyor.com/project/SubtitleEdit/subtitleedit/branch/main)
